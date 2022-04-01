@@ -41,22 +41,18 @@ Course prerequisites include:
 [Data Science](http://scs.georgetown.edu/programs/11193156&)
 
 ## Additional Resources
-https://www.macmillanlearning.com/catalog/studentresources/tps5e#
+[Statistical Rethinking Digital Textbook](https://github.com/rmcelreath/stat_rethinking_2022)
 
-https://www.stattrek.com/
+[The Hacker's Guide to Uncertainty Estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 
-https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html
+[First analysis of ‘pre-registered’ studies shows sharp rise in null findings](https://www.nature.com/articles/d41586-018-07118-1)
 
-https://www.nature.com/articles/d41586-018-07118-1 
+[Statistics Versus Machine Learning](https://normaldeviate.wordpress.com/2012/06/12/statistics-versus-machine-learning-5-2/)
 
-https://normaldeviate.wordpress.com/2012/06/12/statistics-versus-machine-learning-5-2/ 
+[Translating Between Statistics and Machine Learning ](https://insights.sei.cmu.edu/sei_blog/2018/11/translating-between-statistics-and-machine-learning.html)
 
-https://insights.sei.cmu.edu/sei_blog/2018/11/translating-between-statistics-and-machine-learning.html
+[Seeing Theory (Visualizations)](https://seeing-theory.brown.edu/basic-probability/index.html)
 
-https://seeing-theory.brown.edu/basic-probability/index.html
+[Data fallacies](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/)
 
-https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/
-
-https://www.statisticsdonewrong.com/
-
-https://docs.pymc.io/notebooks/hierarchical_partial_pooling.html
+[Statistics Done Wrong](https://www.statisticsdonewrong.com/)
